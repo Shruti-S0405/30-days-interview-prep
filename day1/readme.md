@@ -15,12 +15,12 @@ https://www.hackerrank.com/challenges/simple-array-sum/problem
 #### SimpleArraySum
 
 ### Challenge - 4
-https://www.hackerrank.com/challenges/staircase/submissions/code/412952203
-#### Staircase
+https://www.hackerrank.com/contests/codeblitz-2/challenges/target-sum-pair-2
+#### TargetSumPair-2
 
 ### Challenge - 5
-https://www.hackerrank.com/challenges/select-all-sql/problem
-#### Select all sql
+https://www.hackerrank.com/challenges/revising-the-select-query/problem?isFullScreen=true
+
 
 
 

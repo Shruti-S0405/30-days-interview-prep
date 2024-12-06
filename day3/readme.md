@@ -15,5 +15,12 @@ https://www.hackerrank.com/contests/codeblitz-2/challenges/distance-between-the-
 #### Distance Btw 2 Strings
 
 ### Challenge - 4
-https://www.hackerrank.com/contests/codeblitz-2/challenges/distance-between-the-strings/copy-from/1386322590
-#### Distance Btw 2 Strings
+https://www.hackerrank.com/challenges/staircase/submissions/code/412952203
+#### Staircase
+
+### Challenge - 5
+https://www.hackerrank.com/challenges/select-all-sql/problem
+#### Select all sql
+
+
+

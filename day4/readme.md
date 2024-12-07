@@ -3,12 +3,12 @@
 ## Day 4
 
 ### Challenge - 1
-https://www.hackerrank.com/challenges/birthday-cake-candles/problem?isFullScreen=true
+https://www.hackerrank.com/challenges/birthday-cake-candles/problem
 #### BirthdayCandles
 
 ### Challenge - 2
-https://www.hackerrank.com/contests/archive-pec-code-quest-roundtwo-coders-forum/challenges/1-toomanyab-cf
-#### TooManyAB
+https://www.hackerrank.com/challenges/30-conditional-statements/problem
+#### Conditional Statement
 
 ### Challenge - 3
 https://www.hackerrank.com/challenges/simple-array-sum/problem

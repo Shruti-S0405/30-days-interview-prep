@@ -19,7 +19,7 @@ https://www.hackerrank.com/contests/codeblitz-2/challenges/target-sum-pair-2
 #### TargetSumPair-2
 
 ### Challenge - 5
-https://www.hackerrank.com/challenges/revising-the-select-query/problem?isFullScreen=true
+https://www.hackerrank.com/challenges/select-by-id/problem
 
 
 

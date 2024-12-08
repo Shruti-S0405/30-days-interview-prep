@@ -11,12 +11,12 @@ https://www.hackerrank.com/contests/codeblitz-2/challenges/square-pattern-19-1/
 #### Square Pattern
 
 ### Challenge - 3
-https://www.hackerrank.com/challenges/simple-array-sum/problem
-#### SimpleArraySum
+https://www.hackerrank.com/challenges/grading/problem
+#### Grading Students
 
 ### Challenge - 4
-https://www.hackerrank.com/contests/codeblitz-2/challenges/target-sum-pair-2
-#### TargetSumPair-2
+https://www.hackerrank.com/challenges/30-class-vs-instance/problem
+#### Class VS Instance
 
 ### Challenge - 5
 https://www.hackerrank.com/challenges/japanese-cities-attributes/problem

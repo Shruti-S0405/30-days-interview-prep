@@ -7,8 +7,8 @@ https://www.hackerrank.com/contests/archive-pec-code-quest-roundtwo-coders-forum
 #### IsItPossible
 
 ### Challenge - 2
-https://www.hackerrank.com/challenges/30-conditional-statements/problem
-#### Conditional Statement
+https://www.hackerrank.com/contests/codeblitz-2/challenges/square-pattern-19-1/
+#### Square Pattern
 
 ### Challenge - 3
 https://www.hackerrank.com/challenges/simple-array-sum/problem
@@ -19,7 +19,7 @@ https://www.hackerrank.com/contests/codeblitz-2/challenges/target-sum-pair-2
 #### TargetSumPair-2
 
 ### Challenge - 5
-https://www.hackerrank.com/challenges/select-by-id/problem
+https://www.hackerrank.com/challenges/japanese-cities-attributes/problem
 
 
 

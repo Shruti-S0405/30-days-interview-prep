@@ -11,16 +11,12 @@ https://www.hackerrank.com/contests/codeblitz-2/challenges/square-pattern-19-1/
 #### Square Pattern
 
 ### Challenge - 3
-https://www.hackerrank.com/challenges/grading/problem
-#### Grading Students
+https://www.hackerrank.com/contests/archive-pec-code-quest-roundtwo-coders-forum/challenges/10-backtonursery-cf
+#### BacktoNursery
 
 ### Challenge - 4
-https://www.hackerrank.com/challenges/30-class-vs-instance/problem
-#### Class VS Instance
+https://www.hackerrank.com/challenges/30-loops/problem
+#### 30 Loops
 
 ### Challenge - 5
-https://www.hackerrank.com/challenges/japanese-cities-attributes/problem
-
-
-
-
+https://www.hackerrank.com/challenges/japanese-cities-name/problem

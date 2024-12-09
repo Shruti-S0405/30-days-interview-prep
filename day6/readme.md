@@ -1,10 +1,10 @@
 # 30 Days of Interview Preparation
 
-## Day 5
+## Day 6
 
 ### Challenge - 1
-https://www.hackerrank.com/contests/archive-pec-code-quest-roundtwo-coders-forum/challenges/8-isitpossible-cf/
-#### IsItPossible
+https://www.hackerrank.com/challenges/diagonal-difference/problem
+#### diagonal-difference
 
 ### Challenge - 2
 https://www.hackerrank.com/contests/codeblitz-2/challenges/square-pattern-19-1/
@@ -21,6 +21,6 @@ https://www.hackerrank.com/challenges/30-class-vs-instance/problem
 ### Challenge - 5
 https://www.hackerrank.com/challenges/japanese-cities-attributes/problem
 
-![solution](image.png)
+
 
 

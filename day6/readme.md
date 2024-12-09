@@ -7,8 +7,8 @@ https://www.hackerrank.com/challenges/diagonal-difference/problem
 #### diagonal-difference
 
 ### Challenge - 2
-https://www.hackerrank.com/contests/codeblitz-2/challenges/square-pattern-19-1/
-#### Square Pattern
+https://www.hackerrank.com/contests/codeblitz-2/challenges/habit-tracker/
+#### Habit Tracker
 
 ### Challenge - 3
 https://www.hackerrank.com/contests/archive-pec-code-quest-roundtwo-coders-forum/challenges/10-backtonursery-cf

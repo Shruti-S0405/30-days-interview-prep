@@ -20,7 +20,9 @@ https://www.hackerrank.com/contests/codeblitz-2/challenges/remove-duplicates-61-
 
 ### Challenge - 5
 https://www.hackerrank.com/challenges/revising-the-select-query-2/problem?isFullScreen=true
-#### Revising the Select Query II
+#### Revising the Select Query 
+
+![solution](image.png)
 
 
 

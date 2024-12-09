@@ -22,5 +22,6 @@ https://www.hackerrank.com/challenges/staircase/submissions/code/412952203
 https://www.hackerrank.com/challenges/select-all-sql/problem
 #### Select all sql
 
+![solution](image.png)
 
 

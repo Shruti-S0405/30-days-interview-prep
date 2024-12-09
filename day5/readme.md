@@ -21,6 +21,6 @@ https://www.hackerrank.com/challenges/30-class-vs-instance/problem
 ### Challenge - 5
 https://www.hackerrank.com/challenges/japanese-cities-attributes/problem
 
-
+![solution](image.png)
 
 

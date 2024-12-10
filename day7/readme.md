@@ -7,16 +7,16 @@ https://www.hackerrank.com/challenges/30-review-loop/problem
 #### review-loop
 
 ### Challenge - 2
-https://www.hackerrank.com/contests/codeblitz-2/challenges/habit-tracker/
-#### Habit Tracker
+https://www.hackerrank.com/challenges/compare-the-triplets/problem
+#### Compare the triplets
 
 ### Challenge - 3
-https://www.hackerrank.com/contests/archive-pec-code-quest-roundtwo-coders-forum/challenges/10-backtonursery-cf
-#### BacktoNursery
+https://www.hackerrank.com/contests/codeblitz-2/challenges/bookmark-checker
+#### Bookmark checker
 
 ### Challenge - 4
-https://www.hackerrank.com/challenges/30-loops/problem
-#### 30 Loops
+https://www.hackerrank.com/contests/archive-pec-code-quest-roundtwo-coders-forum/challenges/11-numberpatterngenerator-cf/
+#### 11-numberpatterngenerator-cf
 
 ### Challenge - 5
 https://www.hackerrank.com/challenges/weather-observation-station-1/problem

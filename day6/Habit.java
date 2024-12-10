@@ -8,32 +8,26 @@ public class Habit {
         Scanner sc = new Scanner(System.in);
         int start = sc.nextInt();
         int total = sc.nextInt();
-        
-        int[] arr = new int[start+total];
-        for(int i=start; i<start+total; i++){
+        int[] arr = new int[total];
+        int max = 0;
+        int count = 0;
+        int index = 0;
+        for(int i = 0; i < total; i++){
             arr[i] = sc.nextInt();
         }
-        // System.out.println(Arrays.toString(arr));
-        int count = 0;
-        int max = 0;
-        int start_index = 0;
-        int max_index = 0;
-        
-        for(int j=start; j<start+total; j++){
-            if(arr[j]==1){
-                if(count==0){
-                    start_index = j;
-                }
+        for(int i = 0; i < total; i++){
+            if(arr[i] == 1){
                 count++;
+                if(max <= count){
+                    max = count;
+                    index = i;
+                }
             }else{
                 count = 0;
             }
-            if(max<count){
-                max = count;
-                max_index = start_index;
-            }
         }
         // System.out.println(max);
-        System.out.println(max_index);
+        // System.out.println(index);
+        System.out.print(index - max + 1 + start);
     }
 }

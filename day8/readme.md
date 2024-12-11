@@ -19,4 +19,4 @@ https://www.hackerrank.com/challenges/30-loops/problem
 #### 30 Loops
 
 ### Challenge - 5
-https://www.hackerrank.com/challenges/japanese-cities-name/problem
+https://www.hackerrank.com/challenges/weather-observation-station-2/problem

@@ -7,8 +7,8 @@ https://www.hackerrank.com/contests/archive-pec-code-quest-roundtwo-coders-forum
 #### Pyramid
 
 ### Challenge - 2
-https://www.hackerrank.com/contests/codeblitz-2/challenges/habit-tracker/
-#### Habit Tracker
+https://www.hackerrank.com/challenges/30-arrays/problem
+#### 30-Arrays
 
 ### Challenge - 3
 https://www.hackerrank.com/contests/archive-pec-code-quest-roundtwo-coders-forum/challenges/10-backtonursery-cf

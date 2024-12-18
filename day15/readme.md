@@ -11,12 +11,12 @@ https://www.hackerrank.com/contests/archive-pec-code-quest-roundtwo-coders-forum
 #### Improveatlast
 
 ### Challenge - 3
-https://www.hackerrank.com/challenges/find-digits/problem
-#### Find Digits
+https://www.hackerrank.com/contests/archive-pec-code-quest-roundtwo-coders-forum/challenges/25-swapbro-cf
+#### SwapBro
 
 ### Challenge - 4
 https://www.hackerrank.com/contests/codeblitz-2/challenges/time-convertor
 #### Time Convertor
 
 ### Challenge - 5 - SQL
-https://www.hackerrank.com/challenges/weather-observation-station-4/problem
+https://www.hackerrank.com/challenges/weather-observation-station-8/problem

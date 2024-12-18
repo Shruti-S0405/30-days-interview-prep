@@ -15,8 +15,8 @@ https://www.hackerrank.com/contests/archive-pec-code-quest-roundtwo-coders-forum
 #### SwapBro
 
 ### Challenge - 4
-https://www.hackerrank.com/contests/codeblitz-2/challenges/time-convertor
-#### Time Convertor
+https://www.hackerrank.com/challenges/designer-pdf-viewer/problem
+#### designer-pdf-viewer
 
 ### Challenge - 5 - SQL
 https://www.hackerrank.com/challenges/weather-observation-station-8/problem

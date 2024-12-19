@@ -20,3 +20,5 @@ https://www.hackerrank.com/challenges/30-loops/problem
 
 ### Challenge - 5
 https://www.hackerrank.com/challenges/japanese-cities-name/problem
+
+![alt text](image.png)
